@@ -1,0 +1,25 @@
+body{
+  background-image: url('https://static01.nyt.com/images/2019/06/29/us/00xp-headlights1/00xp-headlights1-superJumbo.jpg?quality=90&auto=webp');
+  background-size: 1700px, 5000px;
+  background-repeat: no-repeat;
+  
+  font-family: 'Mate SC', serif;
+}
+  
+h1 {
+  color: white;
+  text-align: center;
+  margin: 150px;
+  font-size: 5rem;
+}
+  
+nav li{
+  display: block;
+}
+  
+nav a{
+    color: white;
+    text-decoration: none;
+    height: 60px;
+    line-height: 60px;
+}
